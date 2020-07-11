@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CompanyPortfolio/static/css/main.cbdffeca.chunk.css",
+    "main.js": "/CompanyPortfolio/static/js/main.7676d000.chunk.js",
+    "main.js.map": "/CompanyPortfolio/static/js/main.7676d000.chunk.js.map",
+    "runtime-main.js": "/CompanyPortfolio/static/js/runtime-main.526a637f.js",
+    "runtime-main.js.map": "/CompanyPortfolio/static/js/runtime-main.526a637f.js.map",
+    "static/js/2.8f82fe58.chunk.js": "/CompanyPortfolio/static/js/2.8f82fe58.chunk.js",
+    "static/js/2.8f82fe58.chunk.js.map": "/CompanyPortfolio/static/js/2.8f82fe58.chunk.js.map",
+    "index.html": "/CompanyPortfolio/index.html",
+    "precache-manifest.1394defca0b593023526e14d5ea9cb4e.js": "/CompanyPortfolio/precache-manifest.1394defca0b593023526e14d5ea9cb4e.js",
+    "service-worker.js": "/CompanyPortfolio/service-worker.js",
+    "static/css/main.cbdffeca.chunk.css.map": "/CompanyPortfolio/static/css/main.cbdffeca.chunk.css.map",
+    "static/js/2.8f82fe58.chunk.js.LICENSE.txt": "/CompanyPortfolio/static/js/2.8f82fe58.chunk.js.LICENSE.txt",
+    "static/media/crown.7943cd2a.svg": "/CompanyPortfolio/static/media/crown.7943cd2a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.526a637f.js",
+    "static/js/2.8f82fe58.chunk.js",
+    "static/css/main.cbdffeca.chunk.css",
+    "static/js/main.7676d000.chunk.js"
+  ]
+}
